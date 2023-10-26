@@ -1,0 +1,72 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.inner-container {
+  background-color: #150b3e;
+  border-radius: 9px;
+
+  padding: 15px;
+
+  width: 400px;
+}
+.bg-container {
+  background-color: #c7d2fe;
+  height: 60px;
+  width: 60px;
+  border-radius: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  margin-left: 10px;
+  color: #d4d2db;
+  font-size: 25px;
+}
+.sarahContainer {
+  display: flex;
+}
+.sarahContainer2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.para {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #382f5a;
+}
+.para2000 {
+  color: #d4d2db;
+  font-size: 38px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+.rupeesContainer {
+  display: flex;
+  flex-direction: column;
+}
+.paraInRupees {
+  margin-top: 0px;
+  color: #382f5a;
+  font-weight: bold;
+}
+.withdraw {
+  color: #ffffff;
+  font-weight: bold;
+}
+.sum {
+  color: #382f5a;
+  font-size: 20px;
+}
+.ulList {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 0px;
+  padding-left: 0px;
+}

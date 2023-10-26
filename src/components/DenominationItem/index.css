@@ -1,0 +1,14 @@
+.btn {
+  color: #d4d2db;
+  background-color: #382f5a;
+  border: 2px solid #d4d2db;
+  border-radius: 9px;
+  width: 180px;
+  margin-bottom: 8px;
+  height: 40px;
+}
+.list {
+  list-style-type: none;
+  flex-grow: 1;
+  flex-wrap: wrap;
+}
